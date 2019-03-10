@@ -8,7 +8,7 @@ OutputBasePath2=E:\stc15w104\tank_alarm\doc\电路\
 OutputPathMedia2=
 OutputPathOutputer2=[Output Type]
 OutputFileName2=主板.pdf
-OpenOutput2=1
+OpenOutput2=0
 PromptOverwrite2=1
 PublishMethod2=0
 ZoomLevel2=50
@@ -60,7 +60,7 @@ WmvQuality4=80
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=E:\stc15w104\tank_alarm\doc\电路\主板.pdf
-OpenOutputs2=1
+OpenOutputs2=0
 RelativeOutputPath3=E:\stc15w104\tank_alarm\doc\电路\Project Outputs for PCB_Project\
 OpenOutputs3=1
 AddToProject3=1
@@ -107,18 +107,4 @@ OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
-OutputType2=BOM_PartType
-OutputName2=Bill of Materials
-OutputCategory2=Report
-OutputDocumentPath2=
-OutputVariantName2=[No Variations]
-OutputEnabled2=1
-OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=2
-OutputEnabled2_OutputMedium3=0
-OutputEnabled2_OutputMedium4=0
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-Configuration2_Name1=General
-Configuration2_Item1=TemplateFilename=
 
