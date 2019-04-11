@@ -61,8 +61,8 @@ while(1)
 
 	if(temp==count_total)
 	{
-	if(count_0>=count_1) out=0,beep=0;
-	else out=1,beep=1;
+	if(count_0>=count_1) out=1,beep=0;
+	else out=0,beep=1;
 	count_0=count_1=temp=0;
 	}
 	else temp++;
